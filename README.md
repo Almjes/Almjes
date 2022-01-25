@@ -1,6 +1,6 @@
 
 
-<div>
+<div align="center">
 <h1>Jessica Almino de Abreu</h1>
 <section class="grid grid-template-areas-1">
 	
